@@ -3,3 +3,4 @@ tifffile
 matplotlib
 seaborn
 pandas
+read-roi
