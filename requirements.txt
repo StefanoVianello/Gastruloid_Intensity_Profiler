@@ -3,5 +3,4 @@ tifffile
 matplotlib
 seaborn
 pandas
-time
 tkinter
